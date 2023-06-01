@@ -17,6 +17,8 @@ senha = customtkinter.CTkEntry(janela,
 botao = customtkinter.CTkButton(janela, text="Login",
                                 command=clique)
 
+
+
 texto.pack(padx=20, pady=20)
 email.pack(padx=20, pady=20)
 senha.pack(padx=20, pady=20)
